@@ -1,0 +1,11 @@
+{
+  "timestamp_utc": "2026-02-23T18:58:50.189257+00:00",
+  "git_commit": "163b340",
+  "python": "3.13.11",
+  "torch": "2.10.0+cu128",
+  "cuda_available": true,
+  "device_name": "NVIDIA GeForce RTX 3070 Laptop GPU",
+  "seed": 42,
+  "config_path": "Configs\\config.yaml",
+  "config_snapshot": "seed: 42\n\ndata:\n  raw_dir: \"Data/downloaded data/manifest-zkhPvrLo5216730872708713142\"\n  processed_dir: \"Data/Processed\"\n  source: \"tcia\"\n  img_size: 512\n\ntrain:\n  batch_size: 8\n  num_workers: 4\n  epochs: 25\n  lr: 0.0001\n  weight_decay: 0.0001\n  pos_weight: auto\n  use_weighted_sampler: false\n  freeze_backbone: false\n  augment: true\n\nsplit:\n  val_frac: 0.15\n  test_frac: 0.15"
+}

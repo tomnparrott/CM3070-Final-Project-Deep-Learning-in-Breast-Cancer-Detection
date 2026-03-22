@@ -1,0 +1,27 @@
+{
+  "run_dir": "Data\\Processed\\runs\\20260223_185850_seed42",
+  "out_dir": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42",
+  "metrics_dir": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\metrics",
+  "figures_dir": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\figures",
+  "failure_cases_dir": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\failure_cases",
+  "operating_threshold": 0.8300026655197144,
+  "target_specificity": 0.9,
+  "outputs": {
+    "core_metrics_json": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\metrics\\test_metrics.json",
+    "threshold_sweep_csv": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\metrics\\threshold_sweep.csv",
+    "subgroup_metrics_csv": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\metrics\\subgroup_metrics.csv",
+    "bootstrap_cis_csv": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\metrics\\bootstrap_cis.csv",
+    "calibration_bins_csv": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\metrics\\calibration_bins.csv",
+    "failure_cases_csv": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\metrics\\failure_cases.csv",
+    "predictions_with_meta_csv": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\metrics\\test_predictions_with_meta.csv",
+    "density_policy_thresholds_csv": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\metrics\\density_policy_thresholds.csv",
+    "density_policy_test_results_csv": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\metrics\\density_policy_test_results.csv",
+    "audit_summary_csv": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\metrics\\audit_summary.csv",
+    "audit_mask_ablation_csv": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\metrics\\audit_mask_ablation.csv",
+    "audit_mask_ablation_summary_csv": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\metrics\\audit_mask_ablation_summary.csv",
+    "fig_roc": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\figures\\roc_curve.png",
+    "fig_pr": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\figures\\pr_curve.png",
+    "fig_cm": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\figures\\confusion_matrix.png",
+    "fig_calibration_curve": "Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-27\\20260223_185850_seed42\\figures\\calibration_curve.png"
+  }
+}

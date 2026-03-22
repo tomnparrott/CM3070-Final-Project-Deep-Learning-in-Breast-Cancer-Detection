@@ -1,0 +1,8 @@
+group_by,group,n,pct_flag_any
+overall,,538,84.5724907063197
+density_group,1-2,305,83.93442622950819
+density_group,3-4,233,85.40772532188842
+outcome,FN,129,85.27131782945736
+outcome,FP,30,93.33333333333333
+outcome,TN,323,82.97213622291022
+outcome,TP,56,87.5

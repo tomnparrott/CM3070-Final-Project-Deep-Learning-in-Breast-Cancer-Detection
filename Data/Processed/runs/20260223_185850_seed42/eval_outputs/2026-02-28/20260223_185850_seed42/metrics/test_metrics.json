@@ -1,0 +1,59 @@
+{
+  "threshold": 0.8300026655197144,
+  "auc": 0.7446673302197382,
+  "precision": 0.6511627906976745,
+  "recall_sensitivity": 0.3027027027027027,
+  "f1": 0.4132841328413284,
+  "specificity": 0.9150141643059491,
+  "ppv": 0.6511627906976745,
+  "npv": 0.7146017699115044,
+  "tp": 56,
+  "fp": 30,
+  "tn": 323,
+  "fn": 129,
+  "operating_points": {
+    "sens_at_spec_0.80": {
+      "sensitivity": 0.4756756756756757,
+      "threshold": 0.7001746296882629,
+      "specificity": 0.8016997167138811
+    },
+    "sens_at_spec_0.85": {
+      "sensitivity": 0.40540540540540543,
+      "threshold": 0.7632603645324707,
+      "specificity": 0.8526912181303117
+    },
+    "sens_at_spec_0.90": {
+      "sensitivity": 0.3027027027027027,
+      "threshold": 0.8300026655197144,
+      "specificity": 0.9150141643059491
+    },
+    "sens_at_spec_0.95": {
+      "sensitivity": 0.1837837837837838,
+      "threshold": 0.8796617984771729,
+      "specificity": 0.9518413597733711
+    },
+    "spec_at_sens_0.80": {
+      "specificity": 0.5609065155807366,
+      "threshold": 0.3344689905643463,
+      "sensitivity": 0.8054054054054054
+    },
+    "spec_at_sens_0.85": {
+      "specificity": 0.48441926345609065,
+      "threshold": 0.24722892045974731,
+      "sensitivity": 0.8540540540540541
+    },
+    "spec_at_sens_0.90": {
+      "specificity": 0.4249291784702549,
+      "threshold": 0.1785573959350586,
+      "sensitivity": 0.9081081081081082
+    }
+  },
+  "avg_precision": 0.5767631848364787,
+  "brier_score": 0.21744053065776825,
+  "ece": 0.14075030733356908,
+  "mce": 0.30005110502243043,
+  "sensitivity_at_spec_0.90": 0.3027027027027027,
+  "threshold_at_spec_0.90": 0.8300026655197144,
+  "specificity_achieved_at_spec_0.90": 0.9150141643059491,
+  "tta": false
+}

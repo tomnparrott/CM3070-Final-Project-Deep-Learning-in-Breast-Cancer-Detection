@@ -1,0 +1,29 @@
+Data/downloaded data/
+Data/Processed/backup_before_gpu_train/
+Data/Processed/*.pt
+
+# Only include the best run, ignore all others
+Data/Processed/runs/20260123_*/
+Data/Processed/runs/20260129_*/
+Data/Processed/runs/20260203_*/
+Data/Processed/runs/20260204_*/
+Data/Processed/runs/20260205_*/
+Data/Processed/runs/20260214_*/
+Data/Processed/runs/20260215_*/
+Data/Processed/runs/20260217_*/
+Data/Processed/runs/20260218_*/
+Data/Processed/runs/20260220_*/
+
+report/
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+wandb/
+mlruns/
+logs/
+*.onnx
+*.h5

@@ -1,0 +1,12 @@
+{
+  "run_dir": "C:\\Users\\tompa\\Desktop\\Final Project\\Breast Cancer-CBIS-DDSM\\Data\\Processed\\runs\\20260223_185850_seed42",
+  "metrics_dir": "C:\\Users\\tompa\\Desktop\\Final Project\\Breast Cancer-CBIS-DDSM\\Data\\Processed\\runs\\20260223_185850_seed42\\eval_outputs\\2026-02-25\\20260223_185850_seed42\\metrics",
+  "threshold_used": 0.8300026655197144,
+  "n": 538,
+  "counts": {
+    "TN": 323,
+    "FN": 129,
+    "TP": 56,
+    "FP": 30
+  }
+}
